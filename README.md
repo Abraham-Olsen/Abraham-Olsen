@@ -2,7 +2,7 @@
 
 ## ¡Bienvenidos!
 
-![Imagen de una persona](Gigachad.jpg){ width=100 height=100 }
+![Imagen de una persona](Gigachad.jpg){width=50 height=50}
 
 ¡Hola a todos! Soy [Nombre de la persona]. Soy un apasionado [profesión/hobbie/interés]. Me encanta [descripción de lo que te gusta hacer o tus logros].
 

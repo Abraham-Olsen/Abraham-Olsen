@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-![Image of a person](Gigachad.jpg)
+![Image of a person](thiscat.gif)
 
 Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about programming and PCs.
 

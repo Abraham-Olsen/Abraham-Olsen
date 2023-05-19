@@ -1,29 +1,14 @@
-# Página de Introducción
+# Introduction Page
 
-## ¡Bienvenidos!
+## Welcome!
 
-![Imagen de una persona](Gigachad.jpg){width=50 height=50}
+![Image of a person](Gigachad.jpg)
 
-¡Hola a todos! Soy [Nombre de la persona]. Soy un apasionado [profesión/hobbie/interés]. Me encanta [descripción de lo que te gusta hacer o tus logros].
+Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about programming and PCs.
 
-Aquí encontrarás más información sobre mí y algunas fotos de mis proyectos:
+Thank you for visiting my introduction page!
 
-### Proyecto 1
-
-![Imagen del proyecto 1](proyecto1.jpg)
-
-En este proyecto, [breve descripción del proyecto y sus objetivos].
-
-### Proyecto 2
-
-![Imagen del proyecto 2](proyecto2.jpg)
-
-En mi segundo proyecto, [breve descripción del proyecto y sus objetivos].
-
-Si tienes alguna pregunta o quieres saber más sobre mí y mis proyectos, no dudes en [contactarme](mailto:correo@ejemplo.com). ¡Estoy emocionado de compartir más contigo!
-
-¡Gracias por visitar mi página de introducción!
-
+##Trying mardown language.
 
 ## 👋 Hi, I’m @Abraham-Olsen
 ## 👀 I’m interested in Pc gaming, Programming, CyberSecurity 

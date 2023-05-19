@@ -2,7 +2,7 @@
 
 ## ¡Bienvenidos!
 
-![Imagen de una persona](imagen.jpg](https://github.com/Abraham-Olsen/Abraham-Olsen/assets/132525251/a62bd615-2d3e-4877-8580-63d81308d987)
+![Imagen de una persona](Gigachad.jpg)
 
 ¡Hola a todos! Soy [Nombre de la persona]. Soy un apasionado [profesión/hobbie/interés]. Me encanta [descripción de lo que te gusta hacer o tus logros].
 

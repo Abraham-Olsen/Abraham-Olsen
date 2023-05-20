@@ -21,24 +21,31 @@ Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about 
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="assets/css-3.png"> &nbsp;
+    src="assets/html-5.png"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="assets/html-5.png"> &nbsp;
+    src="assets/css-3.png"> &nbsp;
+ <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="assets/js.png"> &nbsp;
  <img width="70px" 
     height="70px" 
     style="margin: 10px"
     src="assets/java.png"> &nbsp;
- <img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="assets/python.png"> &nbsp;
   <img width="70px" 
     height="70px" 
     style="margin: 10px"
+    src="assets/python.png"> &nbsp;
+ <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
     src="assets/git.png"> &nbsp;
-
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="assets/nodejs.png"> &nbsp;
 #Y alguna más...
 
 

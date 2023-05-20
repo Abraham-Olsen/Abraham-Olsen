@@ -17,7 +17,8 @@
 Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about programming and PCs.
 
 
-## Tecnologías:
+## Technologys:
+i'm trying to expand these programming languages
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
@@ -46,13 +47,18 @@ Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about 
     height="70px" 
     style="margin: 10px"
     src="assets/nodejs.png"> &nbsp;
-#Y alguna más...
+    
+# and so more...
+
+## Social Media:
+- Twitter: [**@AbrahamOlsen420**](https://twitter.com/AbrahamOlsen420)
+- I don't use them so much
 
 
 
-Thank you for visiting my introduction page!
+# Thank you for visiting my introduction page!
 
-##Trying mardown language.
+
 
 ## 👋 Hi, I’m @Abraham-Olsen
 ## 👀 I’m interested in Pc gaming, Programming, CyberSecurity 

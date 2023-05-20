@@ -2,18 +2,42 @@
 
 ## Welcome!
 
-![Image of a person](assets/thiscat.gif)
+
+<img width="200px" 
+    height="200px" 
+    style="margin: 10px"
+    src="assets/thiscat.gif"> &nbsp;
 
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/thiscat.gif"> &nbsp;
+    src="assets/thiscat.gif"> &nbsp;
+    
+ <img width="70px" 
+    height="70px" 
+    style="margin: 50px 0px"
+    src="assets/thiscat.gif"> &nbsp;
     
 Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about programming and PCs.
 
 
 ## Tecnologías:
-
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="assets/css-3.png"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="assets/html-5.png"> &nbsp;
+ <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="assets/java.png"> &nbsp;
+ <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="assets/python.png"> &nbsp;
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()

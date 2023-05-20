@@ -3,15 +3,16 @@
 ## Welcome!
 
 
-<img width="200px" 
-    height="200px" 
+<img width="300px" 
+    height="300px" 
     style="margin: 10px"
     src="assets/thiscat.gif"> &nbsp;
 
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="assets/thiscat.gif"> &nbsp;
+    src="assets/thiscat.gif"
+    src="assets/thiscat.gif" > &nbsp;
     
  <img width="70px" 
     height="70px" 

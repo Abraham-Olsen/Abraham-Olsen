@@ -13,10 +13,6 @@
     style="margin: 10px"
     src="assets/thiscat.gif"> &nbsp;
     
- <img width="70px" 
-    height="70px" 
-    style="margin: 800px"
-    src="assets/thiscat.gif"> &nbsp;
     
 Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about programming and PCs.
 
@@ -38,6 +34,10 @@ Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about 
     height="70px" 
     style="margin: 10px"
     src="assets/python.png"> &nbsp;
+  <img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="assets/git.png"> &nbsp;
 
 #Y alguna más...
 

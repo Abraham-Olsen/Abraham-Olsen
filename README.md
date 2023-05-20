@@ -19,6 +19,7 @@ Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about 
 
 ## Technologys:
 i'm trying to expand these programming languages
+
 <img width="70px" 
     height="70px" 
     style="margin: 10px"

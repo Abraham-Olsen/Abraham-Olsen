@@ -18,7 +18,7 @@ Hello everyone! My name is Abraham-Olsen. I am a student. I am passionate about 
 
 
 ## Technologys:
-i'm trying to expand these programming languages
+I'm trying to expand this knowledge
 
 <img width="70px" 
     height="70px" 
@@ -61,6 +61,12 @@ i'm trying to expand these programming languages
 
 
 
+
+
+
+
+
+This is like a summary of everything.
 ## 👋 Hi, I’m @Abraham-Olsen
 ## 👀 I’m interested in Pc gaming, Programming, CyberSecurity 
 ## 🌱 I’m currently studying System Engineering

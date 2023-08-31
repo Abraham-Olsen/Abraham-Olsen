@@ -49,11 +49,11 @@ I'm trying to expand this knowledge
     style="margin: 10px"
     src="assets/nodejs.png"> &nbsp;
     
-# and so more...
+# and so more in practicing...
 
 ## Social Media:
 - Twitter: [**@AbrahamOlsen420**](https://twitter.com/AbrahamOlsen420)
-- I don't use them so much
+- I don't use it so much tho
 
 
 
